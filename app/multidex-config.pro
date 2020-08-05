@@ -1,0 +1,1 @@
+-keep class com.premise.fullstorysandbox.FullStorySandboxApplication { *; }
